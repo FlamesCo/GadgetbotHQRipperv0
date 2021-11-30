@@ -4,7 +4,7 @@ A HQ Ripper
 
 EDIT:
 Gadgetbot..
-Gadget bot is sa gan that generates silvagunner like music.
+Gadget bot is a  gan that generates silvagunner like music.
 It is able to generate them fast paced. Evenly matched to the tempo and track. It changes the instrument to 
 Any of your choice. Also it uploads it to your channel.
 
